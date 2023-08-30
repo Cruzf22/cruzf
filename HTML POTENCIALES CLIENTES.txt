@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Presentación de MyLogic - Software ERP</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #FFFFFF;
+            margin: 0;
+            padding: 0;
+            line-height: 1.5;
+            text-align: justify;
+        }
+        .blue-text {
+            color: #22438E;
+        }
+        .red-text {
+            color: #E20A17;
+        }
+        .container {
+            text-align: center;
+            font-size: 20px;
+            padding: 20px;
+            max-width: 840px;
+            margin: 0 auto;
+        }
+        .center-image {
+            display: block;
+            margin: 0 auto;
+            border-radius: 20px; /* Ajusta el valor para redondear más o menos */
+        }
+        .highlight-box {
+            background-color: #FFFFFF;
+            color: #ffffff;
+            padding: 10px;
+            border-radius: 50px;
+            margin-bottom: 15px;
+        }
+        .benefits {
+            list-style-type: disc;
+            padding-left: 20px;
+            text-align: left;
+        }
+        .button {
+            display: inline-block;
+            background-color: #E20A17;
+            color: #fff;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 50px;
+        }
+        .footer {
+            text-align: center;
+            padding: 20px 0;
+            background-color: #FFFFFF;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="https://www.neuralsoft.com/wp-content/uploads/2022/03/Logo-300-dpi-09.png" alt="Imagen" class="center-image" width="400" height="100"><br>
+        <h1 class="blue-text"><strong>¿Tu compañía crece al mismo ritmo que la <span class="red-text">Tecnología?</strong></h1><br>
+        <h2 class="blue-text">Te presentamos <span class="red-text">MyLogic,</span> una nueva generación de Software ERP que marca un salto trascendental para <span class="red-text">alcanzar tus metas</span> y la <span class="red-text">transformación tecnológica</span> en tu compañía.</h2><br>
+        <h3 class="blue-text"><u>Algunos de sus beneficios:</u></h3>
+        <ul class="benefits">
+            <li class="blue-text">Adaptabilidad a la lógica de tu negocio y a los cambios en el mercado.</li><br>
+            <li class="blue-text"><strong>Aumento de productividad</strong> con funcionalidades específicas para diferenciarte de la competencia.</li><br>
+            <li class="blue-text"><strong>Interacción fluida</strong> con clientes, proveedores y otros agentes.</li><br>
+            <li class="blue-text"><strong>Fácil Integración</strong> con otros softwares y dispositivos.</li><br>
+            <li class="blue-text"><strong>Inteligencia Artificial</strong> para decisiones estratégicas.</li><br>
+            <li class="blue-text"><strong>Disponibilidad 24/7.</strong></li><br>
+            <li class="blue-text">Altos niveles de <strong>seguridad y auditoría</strong>, fácilmente administrables.</li><br>
+            <li class="blue-text"><strong>Reducción de costos</strong> operativos y de mantenimiento.</li><br>
+            <li class="blue-text"><strong>Nube Privada</strong> con recursos ilimitados en Data Centers propios y servicio de Disaster Recovery.</li><br>
+        </ul><br>
+        <h1 class="red-text" style="text-align: center;"><strong>Da un salto al futuro con MyLogic</strong></h1>
+        <div style="text-align: center;">
+            <a href="https://www.neuralsoft.com/canales/" class="button"><strong>CONOCE MÁS</strong></a>
+        </div>
+    </div>
+    <div class="footer">
+        <img src="https://www.neuralsoft.com/wp-content/uploads/2023/08/Banner-html-2.jpg" alt="Imagen de pie de página" class="center-image">
+    </div>
+</body>
+</html>
